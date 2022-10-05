@@ -1,0 +1,8 @@
+{
+    "name":"date/calculator",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
